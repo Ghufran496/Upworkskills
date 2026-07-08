@@ -37,14 +37,16 @@ Follow `references/job-scoring.md`: read client signals, score the job 0–20, c
 
 ### Layer 2 — WRITE
 1. Read the job like a client: real problem (not stated task), must-haves, budget/type, timeline, and any hidden instruction ("start your reply with…") — obey that first, it's a filter.
-2. Draft **Hook → Proof → Close** (`structure.md`) using the proof + angle from Layer 1. In Saadullah's voice (`voice.md`), zero banned words.
+2. Draft **Greeting → Hook → Proof → Close → Sign-off** (`structure.md`) using the proof + angle from Layer 1. In Saadullah's voice (`voice.md`), zero banned words. Always include a one-line greeting (use the client's name if the post reveals it) and always end with a "Best regards, Saad" sign-off.
 3. **Length: 55–150 words.** Aim for the short end (55–90) unless the job is enterprise/complex. Short + specific beats long.
 4. Price if the job needs a number (`pricing.md`) — anchor on outcome/fixed price, respect the floor.
 5. Answer screening questions separately, one concrete line each.
 
 ### Layer 3 — QA + HUMANIZE (before showing output)
 Run the humanizer pass in `references/humanizer.md`: score the draft's AI-tells 0–100, rewrite until **≤10** (never show a proposal >15), two-pass audit. Then confirm this checklist and fix silently:
-- [ ] Opens with THEIR problem, not "I'm a developer with X years"
+- [ ] Starts with a one-line greeting (client's name if known); hidden-instruction phrase first if required
+- [ ] Body opens with THEIR problem, not "I'm a developer with X years"
+- [ ] Ends with a clean sign-off ("Best regards, Saad")
 - [ ] Exactly one concrete proof with a real number/detail from `profile.md`
 - [ ] Zero banned words / AI tells (`voice.md`); no em/en dashes
 - [ ] 55–150 words; sentence lengths vary (burstiness)
@@ -88,6 +90,6 @@ Then log it to `assets/applications.md` and end with one line pushing Saadullah 
 - Qualify before writing. Don't burn connects on ≤13 or 2+ red-flag jobs.
 - Never fabricate experience, client names, metrics, or links — use only `profile.md`, else a bracketed placeholder, and flag it.
 - Shorter beats longer. 55–150 words.
-- Open with the client's problem. One specific proof. One clear next step.
+- Always greet at the top and sign off at the bottom ("Best regards, Saad"). Between them: open on the client's problem, one specific proof, one clear next step.
 - Obey any hidden instruction in the job post first.
 - Never share personal email/phone in a proposal (Upwork ToS).

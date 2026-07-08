@@ -1,26 +1,53 @@
 # Example proposals (patterns, not scripts)
 
-Use these to calibrate tone and structure. Never copy verbatim — adapt to the job and the real profile.
+Use these to calibrate tone and structure. Never copy verbatim — adapt to the job and Saadullah's real profile. Note the shape: **greeting → hook → proof → close → sign-off**, no em dashes, one specific proof.
 
-## Example 1 — Shopify checkout fix (fixed-price, budget listed)
-> Your 68% cart abandonment almost certainly isn't the design — it's the 3-step checkout asking for too much too early. I fixed the same thing for a Shopify store last month and drop-off went from 68% to 41% in two weeks. I'd start by auditing your funnel, then collapse checkout to one step with express pay. Fixed $900, done in 5 days, one revision round. Want the 3-step plan today? Reply and I'll send it within the hour.
-
-Why it works: problem-first hook, one numbered proof, priced outcome, easy next step. ~90 words.
-
-## Example 2 — Rescue project (previous dev disappeared)
-> Inheriting a half-built project is stressful — the first risk is paying twice for work that isn't actually shippable. So before anything, I'd audit what's there and tell you honestly what's usable. I did this for a client whose dev vanished mid-build; we salvaged 70% and shipped in 3 weeks. I can do a fixed $300 audit this week, then quote the rest once we both know what we're dealing with. Want me to start the audit?
-
-Why it works: empathy + real problem, de-risks with a cheap phase 1, honest, concrete.
-
-## Example 3 — Hourly, no budget listed, screening question present
-> Quick one: is the Stripe integration already live or are we building it from scratch? That's the difference between a 2-day job and a 2-week one. I've built subscription billing on Next.js + Stripe three times, most recently cutting a client's failed-payment rate in half with retry logic. My rate is [$X]/hr and I can start [day].
+## Example 1 — MVP finish (fixed-price)
+> Hi James,
 >
-> **Screening — "What's your experience with Stripe webhooks?"**
-> Built and debugged webhook handlers for subscription, invoice, and dispute events; handle idempotency and signature verification so events never double-process.
+> The risky part of finishing an MVP isn't the UI, it's making the half-built pieces actually work together in production without surprises at launch. That's exactly what I'd lock down first.
+>
+> I recently took Peepeep from an existing UI to a fully deployed, working product, so turning your design into a real app is familiar ground. I'd wire the core flows, get it deployed, and keep you updated at each milestone.
+>
+> Fixed price works for me, split into milestones so you approve as each piece lands. What's the one feature that has to work on day one?
+>
+> Best regards,
+> Saad
 
-Why it works: sharp qualifying question proves expertise, specific proof, direct rate, answers the screener concretely.
+Why it works: greeting with name, problem-first hook, one real proof (Peepeep), milestone de-risk, specific question, clean sign-off.
+
+## Example 2 — Rescue / hard bug (hourly)
+> Hi there,
+>
+> A bug that "no one can find" is usually a state or integration issue hiding across two layers, not where everyone's looking. Finding those fast is the thing I'm known for.
+>
+> On a recent Next/Node project the client was stuck on a bug that had blocked their deadline; I traced it, fixed it, and got them shipped on time. I'd do the same here: reproduce it, find the root cause, and fix it without adding new debt.
+>
+> I can jump on this today. Can you share the repo and how to reproduce the issue?
+>
+> Best regards,
+> Saad
+
+Why it works: names the real cause, leads with his rescue reputation (real), fast next step, honest.
+
+## Example 3 — Screening question present
+> Hi there,
+>
+> Is the QuickBooks sync already live, or are we building it? That changes the whole timeline, so I'd confirm it first.
+>
+> I build API-integrated platforms on Node and React and I'm comfortable owning features end to end. Most recently I shipped a full MVP from UI to production, so your integration work is squarely in my lane.
+>
+> Available to start this week. Which integration is most urgent?
+>
+> Best regards,
+> Saad
+>
+> **Screening — "Tell us something you built and how you use AI tools."**
+> I built and deployed the Peepeep MVP from an existing UI to production. I use AI tools daily for code review, generating tests, and scaffolding integrations, which lets me ship faster without dropping quality.
+
+Why it works: sharp qualifying question, honest proof, answers the screener concretely, greeting + sign-off intact.
 
 ## Anti-example (do NOT write this)
-> Hello! I hope this message finds you well. I am a passionate, detail-oriented full-stack developer with over 5 years of experience delivering robust, scalable, and seamless solutions. I would love to leverage my expertise to elevate your project and help you unlock its full potential. I am confident I am the perfect fit. Looking forward to hearing from you!
+> Hello! I hope this message finds you well. I am a passionate, detail-oriented full-stack developer with over 6 years of experience delivering robust, scalable, and seamless solutions. I would love to leverage my expertise to elevate your project and unlock its full potential. Looking forward to hearing from you!
 
-Why it fails: about me not them, every banned word, zero specifics, no proof, no real next step. Instant delete.
+Why it fails: cliché greeting, about me not them, every banned word, zero specifics, no proof, no real next step, em-dash-free but still instant delete.

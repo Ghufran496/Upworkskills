@@ -9,6 +9,8 @@ Result: applied / viewed / reply / interview / hired / ghosted / skipped
 
 ## Log — Saadullah account (current)
 <!-- newest at top -->
+2026-07-08 | Expert Web Designer/Dev – Rwanda business website (SEO + integrations) | 9/20 | SKIP | n/a | n/a ($5-8/hr, below floor) | <5 | skipped — rate below $15 floor + design-led job outside dev lane + brand-new client
+2026-07-08 | Senior Full-Stack owner – GenAI audio language-learning platform (takeover) | 16/20 | APPLY | inherit-and-de-risk hook + Peepeep takeover proof + honest specialist line (audio/voice) | $38/hr | 15-20 | applied
 
 ## Archived — Ali Haider account (before 2026-07-04 profile switch; proofs no longer used)
 2026-07-04 | Full-Stack Node/PostgreSQL B2B SaaS Revenue Platform (QBO/HubSpot/AI) | 17/20 | DRAFT NOW | integration-breaks-billing risk hook + solo + Pacific overlap; Unifaires/Azure OpenAI proof | $25/hr | <5 | applied
