@@ -37,7 +37,7 @@ Follow `references/job-scoring.md`: read client signals, score the job 0–20, c
 
 ### Layer 2 — WRITE
 1. Read the job like a client: real problem (not stated task), must-haves, budget/type, timeline, and any hidden instruction ("start your reply with…") — obey that first, it's a filter.
-2. Draft **Hook → Proof → Close** (`structure.md`) using the proof + angle from Layer 1. In Ali's voice (`voice.md`), zero banned words.
+2. Draft **Hook → Proof → Close** (`structure.md`) using the proof + angle from Layer 1. In Saadullah's voice (`voice.md`), zero banned words.
 3. **Length: 55–150 words.** Aim for the short end (55–90) unless the job is enterprise/complex. Short + specific beats long.
 4. Price if the job needs a number (`pricing.md`) — anchor on outcome/fixed price, respect the floor.
 5. Answer screening questions separately, one concrete line each.
@@ -77,7 +77,7 @@ Angle: <chosen angle>   Proof used: <chosen portfolio item>
 AI-tell score: X/100 (cleaned) · words: N
 ```
 
-Then log it to `assets/applications.md` and end with one line pushing Ali to send it now.
+Then log it to `assets/applications.md` and end with one line pushing Saadullah to send it now.
 
 ## Self-correction (compounds over time)
 - On send → append to `assets/applications.md` (score, angle, bid, proposal count, result).

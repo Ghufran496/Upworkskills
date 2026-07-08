@@ -1,13 +1,13 @@
 # Layer 3 — Humanizer QA pass (AI-tell scoring)
 
-Every proposal gets scored and cleaned before Ali sees it. Goal: reads like a sharp human typed it in 90 seconds, not like ChatGPT. Based on the blader/humanizer 33-pattern set + Aboudjem 0–100 scoring, tuned for short Upwork proposals.
+Every proposal gets scored and cleaned before Saadullah sees it. Goal: reads like a sharp human typed it in 90 seconds, not like ChatGPT. Based on the blader/humanizer 33-pattern set + Aboudjem 0–100 scoring, tuned for short Upwork proposals.
 
 ## Two-pass process
 - **Pass 1 — Rewrite:** scan for the patterns below, fix each, keep meaning + length.
 - **Pass 2 — Audit:** ask "what still sounds AI here?", fix what's left, confirm no em/en dashes and no banned words remain.
 
 ## AI-tell score (0–100 — lower is better)
-Start at 0, add points for each tell present in the proposal. **Target ≤10. If >15, rewrite before output — do not show Ali a proposal above 15.** Report the score in the QA note.
+Start at 0, add points for each tell present in the proposal. **Target ≤10. If >15, rewrite before output — do not show Saadullah a proposal above 15.** Report the score in the QA note.
 
 | Tell | Points each |
 |---|---|
