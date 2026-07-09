@@ -9,6 +9,7 @@ Result: applied / viewed / reply / interview / hired / ghosted / skipped
 
 ## Log — Saadullah account (current)
 <!-- newest at top -->
+2026-07-09 | Finish CodeCanyon Quiz script (CodeIgniter + Next.js, connect/auth/fix) | 14/20 | APPLY | "Hi Ankur" + CodeCanyon-script-live proof (beyli.live) + mirror responsibility list + setup question | $10 fixed (paid trial → contract-to-hire) | <5 | applied
 2026-07-09 | Senior Front-End Dev, Legacy Product rebuild (React/Node/TS/MUI/RN, web+app) | 13/20 | APPLY (bid-as-filter) | untangle-before-rewrite hook + SMARTHIRE rebuild proof + stack/app questions | $32/hr | <5 | applied — CAUTION: client pays $8/hr avg (advertises $25-40); bid expert rate to filter
 2026-07-09 | Playatech rebuild + email migration (WP/ecommerce downloads, Hostinger) | 12/20 | APPLY (user override) | "Hi Arthur" (client name from history) + ecommerce proof (Lovie Aurora/Orebi) + read-the-detail (blurred preview images) + scope question | $250 fixed | <5 | applied
 2026-07-08 | Auto-Booking Engine + Visa Dashboard (Playwright, 3 days) | 6/20 | HARD SKIP | n/a | $150 fixed ($6.25/hr for 3 days) | <5 | skipped — impossible timeline (24/7 automation + UI in 3 days); rate unsustainable ($6.25/hr); zero Playwright proof; legal gray area (visa portal ToS violation risk)
