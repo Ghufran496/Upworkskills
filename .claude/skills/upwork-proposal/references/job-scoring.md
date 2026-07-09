@@ -10,6 +10,9 @@ Pull whatever is visible and note it:
 - Number of proposals already submitted (fewer = better; <5 on a fresh post is ideal)
 - Hire rate (jobs posted vs hires)
 
+## Capability assumption (read before scoring FIT)
+Saadullah has 7+ years and has shipped 75+ projects across web (frontend + backend), mobile apps, SaaS, AI/ML, e-commerce, fintech, Web3, healthcare, and enterprise. **Assume he CAN do any web or mobile project** built with mainstream languages/frameworks/tools. Do NOT lower the FIT score or lean skip just because there's no near-identical past project — if it's web (front or back end), mobile, or app development in his stack, treat it as within his ability and frame the proposal as "yes, I've done this / this is my lane." Reserve low FIT scores for genuinely out-of-scope work: pure graphic/brand design with no dev, a proprietary no-code platform he'd need a portfolio in (e.g. Duda) where the client demands platform-specific examples, or non-software work. Skips should be driven by CLIENT quality, budget-below-floor, integrity gates (fake examples/false claims), or legal risk — NOT by "hasn't done this exact thing."
+
 ## Step 2 — Score the job (0–5 each, 20 max)
 | Dimension | 0–5 — what to judge |
 |---|---|

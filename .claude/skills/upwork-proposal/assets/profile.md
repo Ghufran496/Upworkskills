@@ -2,11 +2,24 @@
 
 The skill reads this to write in the user's voice with real credentials. Never invent anything not in this file.
 
+> **HOW TO REUSE THIS WORKSPACE FOR A DIFFERENT FREELANCER:** replace the values in this file — Name, standing, voice sample, Proof bank, portfolio links, pricing, GitHub — with the new person's real data. Everything else in the skill (pipeline, scoring, structure, humanizer, rules) stays the same and keeps working. The proposals always sign off with the name set in the "Sign-off name" field below.
+
+## Snapshot (who this freelancer is, at a glance)
+- **Sign-off name:** Saad (proposals end "Best regards, Saad")
+- Full-Stack + Mobile + AI/ML developer, **7+ years**, 75+ delivered projects. Top Rated, 100% Job Success.
+- Location/TZ: Gujranwala, Pakistan (PKT, UTC+5). Comfortable with US/EU/AUS timezone work.
+- Rate: listed $15/hr; **floor $15**; quotes for value on expert jobs. Availability: as-needed / open to offers.
+- **Capability rule:** can do ANY web (frontend + backend) or mobile/app project in his stack — never skip a job for "no identical past project" (see `references/job-scoring.md` + `references/pipeline.md`).
+- Depth: web (React/Next/Angular/Vue), backend (Node/Nest/Express, ASP.NET Core, Python/FastAPI), mobile (React Native, Flutter), AI/ML (LLMs, LangChain, RAG, OpenAI/Claude, Whisper, vector DBs), multi-cloud (AWS + Azure + GCP), DevOps (Docker/K8s/Terraform/CI-CD), all major DBs.
+- GitHub: https://github.com/SaadullahSajjad
+
 ## Identity
 - Name: Saadullah (shown as "Saadullah S." on Upwork; clients call him "Saad")
 - Title / role: Full-Stack Developer | ReactJS · AngularJS · NextJS · NodeJS · ASP.NET
 - Primary niches: scalable web apps, SaaS platforms, dashboards & admin panels, REST APIs & microservices, MVP builds (idea/UI → production), e-commerce (multi-vendor & single-vendor), fintech/real-estate platforms, API integrations, cloud (AWS/Azure), and hard-bug rescue/debugging
-- Years doing this: 6+
+- Years doing this: 7+ (React, Next.js, Angular, Node.js, Nest.js, Express.js, MERN, ASP.NET Core)
+- GitHub: https://github.com/SaadullahSajjad (username: saadullahsajjad)
+- Working methodology (mention when relevant): Understand requirements → Discuss → Ideate → Design → Develop → Test → Launch → Maintain
 - Location / time zone: Gujranwala, Pakistan — PKT (UTC+5)
 - Availability: "As needed – open to offers", avg response 0–4 hrs, open to contract-to-hire (NOTE: not advertised as full-time 30+ hrs/wk — confirm capacity before pitching long-term full-time roles)
 
@@ -30,6 +43,93 @@ The skill reads this to write in the user's voice with real credentials. Never i
 - **Kudo Property** (portfolio) — fractional real-estate investment platform. Best proof for fintech / real-estate / investment-platform jobs.
 - **Multi-vendor eCommerce platform (MERN)** (portfolio) — best proof for marketplace / multi-vendor e-commerce jobs.
 - **Solo-vendor eCommerce site (.NET & React.js)** (portfolio) — e-commerce + .NET proof.
+- **Ad Submission Portal** (portfolio) — Next.js app with **Stripe payments** and **Monday.com** integration. Best proof for Stripe/payment-integration, portals, and third-party-API jobs.
+
+### Full project portfolio by category (real, linkable — pick the closest 2–3 for each job)
+**1. Marketplace / E-Commerce**
+- Lovie Aurora E-commerce Store: https://lovie-aurora-marketplace.vercel.app/
+- Solo Vendor eCommerce: https://fyp-two-sigma.vercel.app/
+- TryUnifaires (marketplace + admin): https://dev-front.tryunifaires.com , https://dev-admin.tryunifaires.com
+- La Public Marketplace: https://la-public.vercel.app
+- Orebi E-Commerce Store: https://orebi-ecommerce-store.vercel.app
+- Ridex (automotive marketplace): https://ridex-ten.vercel.app
+
+**2. SaaS (AI / business / automation / productivity)**
+- Multi-Tenant Billing & Analytics Dashboard: https://pay.cirqley.com/
+- Crash Report CRM: https://wsp-dashboard.vercel.app/login
+- Automated P&I Management System: https://123-scrapper.vercel.app/dashboard/overview
+- LostNest (university SaaS): https://lostnestfyp.vercel.app
+- HelloDrew AI (real-estate CRM): https://app.hellodrew.ai/dashboard
+- Krigen AI (marketing SaaS): https://www.krigen.ai
+- StreamLine (automation SaaS): https://stream-line-delta.vercel.app
+- Soaked (affiliate & gaming analytics): https://soaked.vercel.app
+- Trander Insight (stock research SaaS): https://trander-insight.vercel.app
+
+**3. FinTech / Investment / Games**
+- Kudo Property (fractional real estate): https://www.kudoproperty.com/
+- Rubble-Rousers (web game): https://rubble-rousers0124635.vercel.app
+- Investa (portfolio & stock tracking): https://investa-web-nine.vercel.app
+
+**4. Social / Community / Media**
+- DubSea cultural media platform: https://www.dubsea.com/
+- Ad Submission Portal: https://ads.dubsea.com/
+- Maximized Ad Revenue Platform: https://monetizesolution.com/
+- LinkUp (social networking): https://link-up-ten.vercel.app
+- PlanetQ Radio (music streaming): https://www.planetqradio.com
+
+**5. Business / Corporate Sites**
+- Reputation Management Platform: https://arshia.vercel.app/
+- Service Business Automation: https://www.boxless-ai.com/
+- ReactBD Business (agency site): https://react-bd-bussiness.vercel.app
+
+**6. Healthcare / AI Assistants**
+- Metanoa Healthcare Platform: https://app.metanoa.ai/
+- mClinic AI Bot: https://bot.mclinic.ai
+- Automated Dropshipping Platform: https://www.spocket.co/
+
+**7. Web3 / Crypto / Blockchain**
+- Decentralized Token Reward System: https://fir-eternal.com/
+- NFT Marketplace: https://raff-labs.vercel.app/
+- DEX Tokenomics Dashboard: https://dex-lovat.vercel.app/tokenomics
+- Jungle-Ox (NFT + social): https://jungle-ox.vercel.app
+- Elysium Royale (crypto lottery): https://elysium-royal.vercel.app
+- Atlas Finance (crypto finance): https://atlas-finance.vercel.app
+- Dogecoin NFT Marketplace: https://dogecoin-nft-marketplace.vercel.app
+- TokenoMeme (meme token): https://tokenomeme.vercel.app
+
+Earlier landing-page samples still valid: tcis-revamp, dev-energypro, dev-hammertime, dev-solar-energy, northern-renewable-centre, northern-energy, scoute-signal-landing-page, portfolio-kai-kim (all .vercel.app).
+
+### Detailed builds with confirmed tech stacks (from repos — strong, specific proof)
+Use these when a job needs concrete "I built X with Y" credibility. Stacks are real/verified.
+- **Metanoa Healthcare Forms Platform** — full-stack clinical assessment form builder. React 18 + TypeScript + Vite + Tailwind + Radix UI + TipTap editor; Node/Express + Supabase (PostgreSQL) + Supabase Auth; multi-tenant workspaces, RBAC, real-time preview, i18n, PostHog analytics. Best for: healthcare, form-builder, multi-tenant SaaS, Supabase jobs. Live: https://app.metanoa.ai/
+- **SMARTHIRE — HR recruitment / ATS** — Next.js 16 (App Router) + TypeScript + Tailwind v4 + shadcn/ui; Supabase (PostgreSQL, auth, private file storage); Resend email; React Hook Form + Zod. Candidate applications with PDF CVs, admin dashboard, status workflow (Applied→Reviewing→Interview→Accepted/Rejected) with automated emails, RBAC. Best for: HR/ATS, Next.js + Supabase, dashboard, file-upload jobs.
+- **USP University Enrollment System** — .NET 8 / ASP.NET Core Web API + EF Core (SQL Server) + JWT + Swagger; React + Vite + Material UI. Course enrollment, GPA tracking, fees/payments, timetables, admin dashboards, role-based access. Best for: EdTech, enrollment/LMS, .NET + React, RBAC jobs.
+- **EventManager** — Angular 18 + Material; REST + Firebase Firestore (real-time); Chart.js; jsPDF/CSV export. Event lifecycle, tickets, attendees, sales analytics dashboards, staff roles, comp-ticket workflows. Best for: event/ticketing SaaS, Angular, real-time dashboards.
+- **LoveOnPi — Pi Network e-commerce** — React 19 + TypeScript; Node/Express 5 + MySQL; Pi Browser SDK crypto payments; Nodemailer. Product catalog, cart with live Pi price conversion, dual checkout (email or Pi crypto), admin inventory. Best for: e-commerce, crypto-payment, Web3-commerce jobs.
+- **Policy Management App** — ASP.NET Core 6 + Angular 19, REST API, service/repository pattern, DI. Insurance policy CRUD. Best for: insurance/policy, .NET + Angular enterprise CRUD.
+- **Marriage / Separation Agreement Wizards** — Angular 19 + PrimeNG; .NET 9 Web API + OpenXML doc generation. Multi-step legal-form wizards that generate formatted DOCX (signature lines, headers/footers, page numbering), session persistence. Best for: legal-tech, document-generation, multi-step form/wizard jobs.
+- **DiScribe — meeting transcription bot** — .NET Core + SQL Server; Azure Cognitive Services (Speech-to-Text + Speaker Recognition); Microsoft Graph (calendar); Twilio; SendGrid. Auto-joins meetings, records, transcribes, identifies speakers, emails minutes. Best for: AI/speech-to-text, meeting automation, Azure Cognitive Services, Twilio jobs.
+- **SelfRep** — Angular 14 + ASP.NET Core (ABP framework) + EF Core; SignalR real-time; Stripe payments; Redis caching; Docker; layered architecture. Best for: enterprise SaaS, ABP/.NET, real-time + payments.
+- **Sports Event Management Platform, PMS (property/project mgmt), SGJ Consent API, Financial Statement Forms** — additional TypeScript/.NET builds available on request.
+
+### AI / ML depth (real, flagship-level — use for AI/LLM/agent jobs)
+Saadullah has genuine production AI/ML experience — do NOT treat AI as only "adjacent" anymore.
+- **HelloDrew — AI real-estate assistant** (Next.js, Python, PostgreSQL, OpenAI GPT-4): production platform processing 5000+ daily conversations. AI voice agents with speech-to-text (Whisper), TTS, real-time conversation/sentiment analysis, intent classification; automated cold-calling with ML predictive lead scoring (improved qualification ~40%); Pinecone vector DB for RAG property recommendations + semantic search; AWS microservices (Docker, Lambda, API Gateway). Live: https://app.hellodrew.ai/dashboard
+- **AI chatbot & NLP solutions** (Python, LangChain, OpenAI, Pinecone/Chroma): multiple production RAG chatbots for document Q&A + support automation; custom NLP pipelines (classification, NER, sentiment) with Hugging Face transformers + spaCy; multi-turn agents with memory + function calling.
+- **DiScribe** (above) — Azure Speech-to-Text + Speaker Recognition meeting bot.
+- AI/ML stack he can claim with proof: LLMs (GPT-4/3.5, Claude API), NLP, LangChain, RAG, vector DBs (Pinecone, Chroma), prompt engineering, TensorFlow, PyTorch, scikit-learn, Hugging Face, Whisper, predictive/ML models, semantic search.
+
+### Flagship enterprise/freelance projects (deep proof, real stacks)
+- **Cerifi — multi-tenant financial EdTech LMS** (Angular 16, ASP.NET Core 6 WebAPI, PostgreSQL): served 50+ enterprise clients (banks, institutions); multi-tenant with row-level security + tenant isolation; CQRS + repository/clean architecture; Google-Calendar-style scheduler with constraint-based auto study-plan generation + SignalR real-time; ML course-recommendation engine. Best for: EdTech/LMS, multi-tenant SaaS, .NET enterprise, RBAC.
+- **Unifaires — multi-language exhibition/marketplace platform** (Next.js 14 TS, Node/Express, MySQL + Sequelize): separate admin + user portals; Socket.io real-time chat; Google Cloud Translation (20+ languages); Stripe + PayPal + Flutterwave payments with webhooks/refunds; NextAuth RBAC; SendGrid/Nodemailer; Cloudinary; Docker + Kubernetes + GitHub Actions on AWS ECS. Best for: marketplace, multi-language, multi-gateway payments, real-time, enterprise SaaS.
+- **Cloud Data Management Platform** (React, ASP.NET Core Minimal API, Azure, SQL Server): ETL pipelines, data schemas, metadata, Power BI workspace integration via Azure Key Vault; Azure Service Bus event-driven architecture; Blob storage with Key-Vault secrets; RBAC data governance; Azure DevOps CI/CD + Terraform. Best for: data platforms, ETL/BI, Azure enterprise, event-driven.
+- **PJ Farmers Market** (Next.js, Supabase, Stripe): multi-vendor e-commerce, vendor dashboards, real-time inventory, secure checkout, handling 10K+ monthly transactions. Best for: multi-vendor marketplace, Supabase + Stripe.
+- **LostNest** (Next.js, Node, MongoDB): lost-and-found hub with real-time notifications, auth, search, deployed on Vercel with CI. 
+
+### Experience & standing (from CV)
+- 7+ years; freelance since 2018–2020, 75+ projects for US/EU/international clients, 100% client satisfaction. Senior Software Engineer & AI/ML Consultant at DevsComet (leads team of 5, US-stakeholder collaboration across time zones, reduced deploy time 45%, +35% team velocity). Comfortable with US-timezone client work.
+- Extra stack from CV: Python (FastAPI, Flask), Vue.js, GraphQL, Redis, Terraform, Jenkins, Nginx, AWS SageMaker, SignalR, Socket.io, Sequelize, Cloudinary, NextAuth, MATLAB (image processing/CV academic work), Java/JavaFX, containerization + Kubernetes in production.
+- **Multi-cloud: hands-on with ALL THREE — AWS, Azure, and GCP** (claim confidently on any cloud/DevOps job). Backed by real work: AWS (EC2, S3, Lambda, SageMaker, API Gateway, ECS) on HelloDrew + Unifaires; Azure (App Service, Functions, Blob, Service Bus, Key Vault, App Insights, DevOps) on Cloud Data Management Platform + DiScribe; GCP (incl. Google Cloud Translation) on Unifaires. Plus Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, Azure DevOps, Jenkins) in production. Never hedge on which cloud — he's shipped on all three.
 - **Weekend Next/Node rescue** ($15, 5.0★) — "found a bug no one else could find and helped us complete the project in time." Best proof for rescue / hard-debugging jobs.
 - **Azure App Insights & Service Bus bug fix** ($10, 5.0★, same day) — "super fast delivery, ahead of schedule." Great for urgent bug-fix / Azure jobs.
 - **AWS Node.js developer** ($150, 5.0★) — "efficient, good work ethic, unique ability to deep dive." AWS/Node proof.
@@ -53,7 +153,7 @@ Saadullah can work across the entire stack below. When writing a proposal, surfa
 
 **Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS, DynamoDB, IAM, VPC, CloudFront, ECS/EKS, API Gateway, SQS/SNS), Azure (App Service, Functions, Azure SQL, Blob, AKS, App Insights, Service Bus, DevOps Pipelines), GCP, DigitalOcean, Vercel, Netlify, Cloudflare, Heroku · Docker, Kubernetes, Docker Compose, Helm · Terraform, Ansible, CloudFormation, Pulumi · GitHub Actions, GitLab CI, Jenkins, ArgoCD, CircleCI, Azure DevOps · Prometheus, Grafana, Datadog, Sentry, ELK · DevSecOps, OAuth2/JWT, RBAC, Vault
 
-**AI / ML:** OpenAI/Azure OpenAI, Anthropic Claude API, LangChain, LlamaIndex, RAG, vector DBs (Pinecone, Weaviate, pgvector), Hugging Face, TensorFlow, PyTorch, speech-to-text/TTS, prompt engineering, AI agents/MCP, embeddings & semantic search · NOTE: AI is claimable + he uses AI tools daily in his workflow, but he has no headline AI project in his proof bank yet — for AI-heavy jobs, bridge from general integration work and AI-assisted workflow, don't claim a flagship LLM product.
+**AI / ML:** OpenAI/Azure OpenAI, Anthropic Claude API, LangChain, LlamaIndex, RAG, vector DBs (Pinecone, Weaviate, Chroma, pgvector), Hugging Face, TensorFlow, PyTorch, scikit-learn, Whisper (speech-to-text)/TTS, prompt engineering, AI agents/MCP, embeddings & semantic search. AI is REAL flagship-level proof (not just adjacent) — see HelloDrew, RAG chatbots, and DiScribe in the AI/ML depth section below.
 
 **Testing/QA:** Jest, Vitest, React Testing Library, Cypress, Playwright, Selenium, Mocha/Chai, Supertest, xUnit/NUnit, Postman (unit/integration/E2E)
 
@@ -62,6 +162,14 @@ Saadullah can work across the entire stack below. When writing a proposal, surfa
 ## Portfolio / links
 - GitHub: https://github.com/SaadullahSajjad
 - Upwork portfolio items: Multi-Vendor eCommerce Platform (MERN); Kudo Property – Fractional Real Estate Investment Platform; Solo-Vendor eCommerce Website (.NET & React.js)
+- Live landing-page samples (all on Vercel/Next.js — great for landing-page, conversion, web-design, Vercel jobs). Pick the closest 2–3 to the job; these are real, link them directly:
+  - B2B managed IT (a REVAMP of an existing site — use for "improve/upgrade existing site" jobs): https://tcis-revamp.vercel.app/
+  - B2B energy consulting, lead-gen (hero, 3-step, testimonial, lead form): https://dev-energypro.vercel.app/
+  - B2B service, manufacturing/delivery (clean modern): https://dev-hammertime.vercel.app/
+  - B2B/B2C solar (ROI framing, quote CTA): https://dev-solar-energy.vercel.app/
+  - Renewable energy installer (social proof, CTAs): https://northern-renewable-centre.vercel.app/ and https://northern-energy.vercel.app/
+  - Sports-tech SaaS marketing page (early-access conversion): https://scoute-signal-landing-page.vercel.app/
+  - Real-estate agent marketing page: https://portfolio-kai-kim.vercel.app/
 - Contact (off-Upwork, do NOT put in proposals): n/a — never share personal contact pre-contract (Upwork ToS)
 
 ## Pricing
