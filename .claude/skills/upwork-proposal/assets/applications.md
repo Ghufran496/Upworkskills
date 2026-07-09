@@ -9,6 +9,7 @@ Result: applied / viewed / reply / interview / hired / ghosted / skipped
 
 ## Log — Saadullah account (current)
 <!-- newest at top -->
+2026-07-10 | Custom React e-commerce platform from scratch (Shopify-killer spec) | 13/20 | APPLY (phase-1 framing) | "Dragon Ready" + honest scope-reframe + MVP-first + e-commerce/admin proof | $1,000 = Phase 1 only (full build $40k+) | <5 | applied — CAUTION: $1k for enterprise scope; first-time client ($200 history); phase or walk
 2026-07-09 | Senior Laravel/React legacy HR SaaS modernization (Ecoleave, PHP7.4→Laravel12, AI/Codex) | 14/20 | APPLY | protect-logic-first hook + SMARTHIRE HR proof + agree with his Laravel12 architecture + phase-1 framing; answered all 11 Qs | $3,000 as Phase 1 (or $18-20/hr) | <5 | applied — CAUTION: 1.0★ "BEWARE" review (discount pressure mid-contract); pays ~$11/hr avg; phase it
 2026-07-09 | Website servicing / GoDaddy SSL + long-term upkeep (WordPress) | 15/20 | APPLY | agency-vanished pain → "solo + reliable, won't disappear" + fix SSL today | $25-30/hr | <5 (4 invites out) | applied
 2026-07-09 | Static HTML/CSS/JS site batch updates (8hr turnaround, not WP) | 15/20 | APPLY | source-edit-comfort hook + mirror change list (footer typo, GSC tag) + confirm $150 + 8hr commit | $150 fixed | <5 | applied
