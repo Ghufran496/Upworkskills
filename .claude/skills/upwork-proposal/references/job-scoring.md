@@ -10,6 +10,9 @@ Pull whatever is visible and note it:
 - Number of proposals already submitted (fewer = better; <5 on a fresh post is ideal)
 - Hire rate (jobs posted vs hires)
 
+## Capability assumption (read before scoring FIT)
+Ali has 5+ years and has shipped 50+ projects across web (frontend + backend), mobile apps, SaaS, AI/ML, e-commerce, fintech, Web3, healthcare, and enterprise. **Assume he CAN do any web or mobile project** built with mainstream languages/frameworks/tools. Do NOT lower the FIT score or lean skip just because there's no near-identical past project — if it's web (front or back end), mobile, or app development in his stack, treat it as within his ability and frame the proposal as "yes, I've done this / this is my lane." Reserve low FIT scores for genuinely out-of-scope work: pure graphic/brand design with no dev, a proprietary no-code platform he'd need a portfolio in (e.g. Duda) where the client demands platform-specific examples, or non-software work. Skips should be driven by CLIENT quality, budget-below-floor, integrity gates (fake examples/false claims), or legal risk — NOT by "hasn't done this exact thing."
+
 ## Step 2 — Score the job (0–5 each, 20 max)
 | Dimension | 0–5 — what to judge |
 |---|---|
@@ -37,13 +40,16 @@ One flag can be fine. Two or more → say "I'd skip this, here's why" unless Ali
 
 ## Step 4 — Portfolio match (feeds the Proof line in Layer 2)
 Pick the ONE most relevant item from `profile.md` proof bank for this exact job:
-- AI / speech / LLM job → Azure OpenAI speech-to-text; HelloDrew AI
-- Platform / marketplace / multi-tenant → Deal Junkie ($2,875), Unifaires, Cerifi LMS
-- Real-time / multi-language → Unifaires
-- Referral / growth feature → referral program build
-- .NET / Blazor → Blazor Taxi Locator; MediatRBlazorApp; ReactDotnet
-- DevOps / cloud / CI-CD → Like Officials 40% faster deploys; Cloud Management Portal (ETL + Power BI)
-- Mobile (React Native / Flutter / iOS / Android) → lead with cross-platform capability + the closest platform proof; bridge from the React/.NET product work
+- MVP build / turn UI or design into a working app → Peepeep MVP ($4,000); HTML UI → functional MVP ($2,000)
+- E-commerce / marketplace / multi-vendor → Multi-vendor MERN platform; Solo-vendor (.NET & React) store
+- Fintech / real estate / investment platform → Kudo Property (fractional real-estate)
+- Rescue / hard bug / "other devs couldn't fix it" → weekend Next/Node bug rescue; reputation for finding bugs others miss
+- Urgent bug fix / Azure → Azure App Insights & Service Bus same-day fix
+- AWS / Node backend → AWS Node.js job; MEAN-stack back-end
+- Front-end / Figma → responsive landing page from Figma
+- SaaS / dashboards / RBAC / APIs → SaaS platform + REST/microservices + RBAC background (DevsComet lead)
+- Mobile (React Native / Flutter) → Flutter certification + cross-platform capability; bridge from React product work
+- AI / LLM → claimable + AI-assisted workflow, but NO flagship AI project — bridge honestly from integration work; don't fake a headline AI product
 Hand this chosen item to the writing layer. Ali claims the full skill set, but the PROOF must be real or a clearly-adjacent project — never invent a metric or client.
 
 ## Step 5 — Pick the angle / template (YedanYagami keyword routing)

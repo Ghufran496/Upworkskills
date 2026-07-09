@@ -29,6 +29,13 @@ Don't just drop the price. Re-anchor on outcome or offer a smaller phase.
 - *"Hi [name] — still happy to help with [project]. One idea since I last wrote: [specific tip]. Want me to send a quick plan?"*
 - Max 2 follow-ups, then let it go.
 
+## Warm follow-up after a proposal is VIEWED (high-intent)
+When the client has opened the proposal (or replied), send a short, specific value-add message:
+1. **Value first** — 2–3 concrete, specific improvements/ideas about THEIR actual product/site/problem (not generic). This is the differentiator; most bidders never do it.
+2. **One sharp diligence question** — for dev jobs, ask the existing tech stack / how a key piece works, framed as "so I fit your setup without breaking anything." Shows senior care + invites a reply.
+3. **Offer the next step as their choice** — "a quick 15-min call, or I can send a short Loom first, whichever's easier." Move toward a conversation without forcing a meeting.
+Keep it tight (~120–150 words), greeting + sign-off, no wall of text.
+
 ## Tone rules
 - Never apologize for your rate.
 - Never send a wall of text in a reply — 2–4 sentences.

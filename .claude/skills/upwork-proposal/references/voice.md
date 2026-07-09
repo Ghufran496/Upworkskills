@@ -9,7 +9,7 @@ delve, tapestry, testament, realm, landscape (figurative), navigate (figurative)
 - Em-dash overuse. Use at most one, prefer commas/periods.
 - Rule of three ("fast, reliable, and scalable"). Break the pattern.
 - Negative parallelism ("It's not just X, it's Y").
-- Opening with "I hope this message finds you well" or "I came across your job post."
+- A simple greeting ("Hi James," / "Hi there,") IS required — but never "I hope this message finds you well", "Dear Sir/Madam", or "I came across your job post."
 - Perfectly balanced, symmetrical sentences. Vary length. Use fragments.
 - Over-hedging: "I believe", "I think I could", "I'd be happy to potentially".
 - Emoji spam. One, max, and only if the job tone is casual.

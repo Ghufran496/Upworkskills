@@ -26,7 +26,8 @@ Start at 0, add points for each tell present in the proposal. **Target ≤10. If
 | Vague claim with no number/specific ("high-quality solutions") | +6 |
 | Sycophantic filler ("I'd be absolutely thrilled") | +4 |
 | Emoji beyond at most one (and only if job tone is casual) | +5 |
-| No specific client detail in the first sentence | +8 |
+| No specific client detail in the first HOOK sentence (the line after the greeting) | +8 |
+| Missing greeting line or missing sign-off | +6 |
 
 ## The tells that matter most for proposals (fix on sight)
 1. **Self-intro opener** — never start with yourself. Start with their problem.
@@ -35,6 +36,9 @@ Start at 0, add points for each tell present in the proposal. **Target ≤10. If
 4. **Uniform rhythm** — vary sentence length hard. A 6-word sentence next to a 20-word one. Use a fragment.
 5. **Vague adjectives instead of numbers** — "robust app" → "app that handled 10k users." Pull the number from `profile.md`.
 6. **Generic closer** — replace with a specific next step.
+
+## Required structure (not penalized — these are expected)
+A greeting line ("Hi [name],") and a sign-off ("Best regards, Ali") are REQUIRED and never count as AI-tells. Only the cliché forms are penalized: "I hope this message finds you well" (greeting) or a next-step replaced by "Looking forward to hearing from you" (close). A clean "Best regards, Ali" is fine.
 
 ## Human-texture moves (add lightly, don't overdo)
 - One contraction-heavy, slightly informal line.

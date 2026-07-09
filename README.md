@@ -8,10 +8,15 @@ A best-of-breed Claude skill for winning Upwork proposals, built by synthesizing
 
 Runs as a **3-layer pipeline**: **Qualify** (score the job + client risk, decide draft/skip) → **Write** (Hook/Proof/Close in your voice) → **QA** (quality pass).
 
+> **Sharing this workspace?** Everything the skill needs ships inside `.claude/skills/upwork-proposal/` — the canonical spec, all rules, and the full profile/projects. Anyone who opens this workspace and uses `/upwork-proposal` gets the exact same structure and behavior. (Personal Claude memory does not transfer, but nothing critical lives only there.)
+
+**`references/pipeline.md` is the canonical spec** — the definitive structure, scoring method, output format, and non-negotiable rules. Read it first.
+
 ```
 .claude/skills/upwork-proposal/
 ├── SKILL.md              # 3-layer pipeline + routing brain + hard rules
 ├── references/
+│   ├── pipeline.md       # ★ CANONICAL SPEC — structure, scoring, format, rules
 │   ├── job-scoring.md    # LAYER 1: job scoring, client risk, portfolio match, angle
 │   ├── structure.md      # LAYER 2: Hook → Proof → Close
 │   ├── voice.md          # anti-AI voice rules + banned words
