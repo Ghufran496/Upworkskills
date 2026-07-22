@@ -2,9 +2,17 @@
 
 Every proposal gets scored and cleaned before Saadullah sees it. Goal: reads like a sharp human typed it in 90 seconds, not like ChatGPT. Based on the blader/humanizer 33-pattern set + Aboudjem 0–100 scoring, tuned for short Upwork proposals.
 
+## ⛔ MANDATORY FINAL GATE — do this LITERALLY every time, never rubber-stamp
+Before showing ANY proposal or screening answer, character-scan the ENTIRE output text for these three things. This is a real check you perform, not a label you attach:
+1. **Em dash `—` and en dash `–`** — scan for the actual characters. If ANY appear, replace each with a period, comma, colon, or a reworded sentence, then scan again. A hyphen in a compound word (e.g. "full-stack", "real-time") is fine; the — and – punctuation dashes are NOT.
+2. **Banned words** from `voice.md` — scan for each. Zero allowed.
+3. **Greeting + "Best regards, Saad" sign-off** — both present.
+
+**You may NOT write the QA line "no em/en dashes" (or any AI-tell score) unless you have literally just scanned the final text for the `—` and `–` characters and confirmed zero.** If you did not scan, do not claim it. Rubber-stamping this line is a process failure — the whole point of this layer is that the claim is earned, not assumed. If a dash slips through, the QA was fake.
+
 ## Two-pass process
 - **Pass 1 — Rewrite:** scan for the patterns below, fix each, keep meaning + length.
-- **Pass 2 — Audit:** ask "what still sounds AI here?", fix what's left, confirm no em/en dashes and no banned words remain.
+- **Pass 2 — Audit:** ask "what still sounds AI here?", fix what's left, then run the MANDATORY FINAL GATE above (literal character scan for —, –, banned words) before output.
 
 ## AI-tell score (0–100 — lower is better)
 Start at 0, add points for each tell present in the proposal. **Target ≤10. If >15, rewrite before output — do not show Saadullah a proposal above 15.** Report the score in the QA note.
@@ -47,4 +55,4 @@ A greeting line ("Hi [name],") and a sign-off ("Best regards, Saad") are REQUIRE
 - One short fragment for rhythm. Like this.
 
 ## Output of this layer
-A cleaned proposal + a one-line QA note: `AI-tell score: X/100 (cleaned)`. If you couldn't get below 10, say why.
+A cleaned proposal + a one-line QA note: `AI-tell score: X/100 (cleaned)`. The QA note may only state "no em/en dashes" after the literal character-scan in the MANDATORY FINAL GATE was actually done. If you couldn't get below 10, say why. Never emit a QA note you did not earn by scanning.
