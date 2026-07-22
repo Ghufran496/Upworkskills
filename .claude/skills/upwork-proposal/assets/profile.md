@@ -99,6 +99,13 @@ The skill reads this to write in the user's voice with real credentials. Never i
 
 Earlier landing-page samples still valid: tcis-revamp, dev-energypro, dev-hammertime, dev-solar-energy, northern-renewable-centre, northern-energy, scoute-signal-landing-page, portfolio-kai-kim (all .vercel.app).
 
+**More live product apps (full apps with auth/dashboards, not just landing pages):**
+- **Scout Signal** — athlete discovery / talent-evaluation SaaS for coaches, scouts, sports orgs. Web app with login + dashboard (https://scoute-signal-web.vercel.app) plus marketing site (https://scoute-signal-landing-page.vercel.app). Best for: sports-tech, discovery/evaluation platforms, SaaS with roles.
+- **Salebiz** (https://salebiz.com.au/) — Australian business-for-sale marketplace: buyers/sellers, search by industry/location/price, verified-broker directory, broker subscriptions. Best for: marketplace, directory, brokerage/M&A, subscription SaaS.
+- **Jetequip** (https://jetequipe.vercel.app/) — suite of web-based engineering calculators (pipe sizing, tank design, friction loss, pump/NPSH) for sanitary/aseptic process industries (food, dairy, pharma, biotech). Real-time calc, metric/imperial, interactive 2D tank drawings. Best for: engineering/scientific calculators, technical/industrial tools, interactive form-driven apps.
+- **Hadji / Ridwan Engineering** (https://hadji-web.vercel.app) — workforce-management software for construction/field businesses: multi-site attendance tracking, payroll/payments, digital approval workflows + audit. Web app with login/dashboard. Best for: workforce/HR-ops, attendance/payroll, construction/field-service SaaS, multi-site dashboards.
+(Login-gated demos exist for Scout Signal & Hadji — request credentials from Saad when a client wants a walkthrough; do NOT store credentials in this file.)
+
 ### Detailed builds with confirmed tech stacks (from repos — strong, specific proof)
 Use these when a job needs concrete "I built X with Y" credibility. Stacks are real/verified.
 - **Metanoa Healthcare Forms Platform** — full-stack clinical assessment form builder. React 18 + TypeScript + Vite + Tailwind + Radix UI + TipTap editor; Node/Express + Supabase (PostgreSQL) + Supabase Auth; multi-tenant workspaces, RBAC, real-time preview, i18n, PostHog analytics. Best for: healthcare, form-builder, multi-tenant SaaS, Supabase jobs. Live: https://app.metanoa.ai/
