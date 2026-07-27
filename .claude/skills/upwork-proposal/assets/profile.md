@@ -94,10 +94,8 @@ Genuine past projects whose demos are down. Cite by name/description as proof, b
 ### AI / ML capability (skills claimable)
 Ali has real AI/ML experience — LLMs (GPT-4/3.5, Claude API), NLP, LangChain, RAG, vector DBs (Pinecone/Chroma/pgvector), Whisper speech-to-text, embeddings/semantic search, predictive ML (TensorFlow/PyTorch/scikit-learn). For AI jobs, describe HelloDrew (above, no link) as the flagship proof, or cite DiScribe (Azure Speech-to-Text meeting bot, in Secondary, no public link). For healthcare, describe Metanoa. Bridge from FLAGSHIP/TOP projects with AI features where relevant (Elora anomaly detection, Quayla AI platform).
 
-<<<<<<< Updated upstream
 ### Experience & standing
 - 5+ years; 50+ delivered projects for US/EU/international clients. Comfortable with US-timezone client work.
-=======
 ### Detailed builds with confirmed tech stacks (strong, specific proof)
 Use these when a job needs concrete "I built X with Y" credibility. Stacks are real/verified.
 - **Metanoa Healthcare Forms Platform** — full-stack clinical assessment form builder. React 18 + TypeScript + Vite + Tailwind + Radix UI + TipTap editor; Node/Express + Supabase (PostgreSQL) + Supabase Auth; multi-tenant workspaces, RBAC, real-time preview, i18n, PostHog analytics. Best for: healthcare, form-builder, multi-tenant SaaS, Supabase jobs. Live: https://app.metanoa.ai/
@@ -134,7 +132,6 @@ AI is genuine production experience here — do NOT treat AI as only "adjacent."
 
 ### Extra proof + standing
 - Large freelance portfolio (50+ projects) for international clients across web, mobile, SaaS, AI/ML, e-commerce, fintech, Web3, healthcare, and enterprise.
->>>>>>> Stashed changes
 - Extra stack: Python (FastAPI, Flask), Vue.js, GraphQL, Redis, Terraform, Jenkins, Nginx, AWS SageMaker, SignalR, Socket.io, Sequelize, Cloudinary, NextAuth, MATLAB (image processing/CV), Java/JavaFX, containerization + Kubernetes in production.
 - **Multi-cloud: hands-on with ALL THREE — AWS, Azure, and GCP.** Claim confidently on any cloud/DevOps job. Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, Azure DevOps, Jenkins) in production. Never hedge on which cloud.
 - **Reputation:** repeatedly found and fixed production bugs no other developer could locate, saving client deadlines → strong debugging/rescue angle.
