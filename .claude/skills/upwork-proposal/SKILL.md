@@ -89,6 +89,7 @@ Then log it to `assets/applications.md` and end with one line pushing Ali to sen
 - Before writing in a niche you've logged, read those rows and lean toward openers/pricing that got replies. Call out patterns.
 
 ## Hard rules
+- **RUN EVERY LAYER FOR REAL — never skip or rubber-stamp a step.** Every job goes through the full pipeline in order: read `pipeline.md` (canonical spec), then Layer 1 QUALIFY (`job-scoring.md`), Layer 2 WRITE (`structure.md` + `voice.md` + `pricing.md`), Layer 3 QA/HUMANIZE (`humanizer.md`). Actually load and apply each reference; actually perform the humanizer's MANDATORY FINAL GATE (literal character-scan for `—`/`–` and banned words). Never emit a QA line ("no em/en dashes", AI-tell score) you did not earn by scanning. Asserting a step instead of doing it is a failure.
 - Qualify before writing. Don't burn connects on ≤13 or 2+ red-flag jobs. BUT never skip for "hasn't done this exact thing" — Ali can do any web (frontend + backend) or mobile project in his stack; frame it as within his lane. Skips are for bad client, sub-floor budget, integrity gates, or legal risk (see `references/job-scoring.md` "Capability assumption").
 - Never fabricate experience, client names, metrics, or links — use only `profile.md`, else a bracketed placeholder, and flag it.
 - Shorter beats longer. 55–150 words.
