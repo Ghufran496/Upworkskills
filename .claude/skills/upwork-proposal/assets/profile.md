@@ -78,8 +78,13 @@ The skill reads this to write in the user's voice with real credentials. Never i
 **Technical tools:** Jetequip engineering calculators (https://jetequipe.vercel.app/ sanitary/pharma process). Krigen AI (https://www.krigen.ai marketing SaaS).
 **Landing pages (B2B/service):** Kai Kim real-estate (https://portfolio-kai-kim.vercel.app/), Hammertime (https://dev-hammertime.vercel.app/), Energy Pro (https://dev-energypro.vercel.app/), Northern Renewable (https://northern-renewable-centre.vercel.app/), Northern Energy (https://northern-energy.vercel.app/), Suncharge solar (https://dev-solar-energy.vercel.app/), TCIS revamp (https://tcis-revamp.vercel.app/).
 
+### Describe-only proof (real work, NO working link — mention as experience, never paste a URL)
+These are genuine past projects whose demos are down. Cite them by name/description as proof, but do NOT include a link (the URLs are dead). If a client asks for a link, offer a code/screen-share walkthrough instead.
+- **HelloDrew AI** — production AI real-estate assistant: OpenAI GPT-4, Whisper speech-to-text, Pinecone RAG, ML lead-scoring, ~5000 daily conversations, on AWS. STRONGEST AI proof — describe it on AI/LLM/agent/voice jobs.
+- **Metanoa** — healthcare forms/assessment platform: React + Supabase (PostgreSQL, auth), multi-tenant workspaces, RBAC, secure data handling. STRONGEST healthcare proof — describe it on healthcare/forms/multi-tenant jobs.
+
 ### AI / ML capability (skills claimable)
-Saadullah has real AI/ML experience — LLMs (GPT-4/3.5, Claude API), NLP, LangChain, RAG, vector DBs (Pinecone/Chroma/pgvector), Whisper speech-to-text, embeddings/semantic search, predictive ML (TensorFlow/PyTorch/scikit-learn). For a concrete AI/speech proof point, cite DiScribe (Azure Speech-to-Text meeting bot, in Secondary). Otherwise claim AI as a skill and bridge from the closest TOP PRIORITY project that has AI features (e.g. Elora's AI anomaly detection, Quayla AI platform).
+Saadullah has real AI/ML experience — LLMs (GPT-4/3.5, Claude API), NLP, LangChain, RAG, vector DBs (Pinecone/Chroma/pgvector), Whisper speech-to-text, embeddings/semantic search, predictive ML (TensorFlow/PyTorch/scikit-learn). For AI jobs, describe HelloDrew (above, no link) as the flagship proof, or cite DiScribe (Azure Speech-to-Text meeting bot, in Secondary, no public link). For healthcare, describe Metanoa. Bridge from TOP PRIORITY projects with AI features where relevant (Elora anomaly detection, Quayla AI platform).
 
 ### Experience & standing (from CV)
 - 7+ years; freelance since 2018–2020, 75+ projects for US/EU/international clients, 100% client satisfaction. Senior Software Engineer & AI/ML Consultant at DevsComet (leads team of 5, US-stakeholder collaboration across time zones, reduced deploy time 45%, +35% team velocity). Comfortable with US-timezone client work.
@@ -119,7 +124,8 @@ Saadullah can work across the entire stack below. Surface only the skills releva
 ## Claiming rules
 - Saadullah claims the full skill set above — treat all of it as within his ability.
 - Still never invent specific METRICS, CLIENT NAMES, or PAST PROJECTS. The project portfolio is the only source of concrete proof; skills are claimable, fake results are not.
-- Use TOP PRIORITY projects first; Secondary only if none fit; NEVER cite a Pending project until Saad confirms it.
+- Use TOP PRIORITY projects first; Secondary only if none fit.
+- Only paste a URL that actually works. Some projects are describe-only (HelloDrew, Metanoa, and any Secondary item marked "no public link" like Cerifi/SMARTHIRE/USP/EventManager/DiScribe): cite them by name and description as real experience, but never paste a link for them. Offer a code/screen-share walkthrough if a client wants to see it.
 - When a job needs a skill, pitch it confidently and attach the closest TOP PRIORITY project (or an adjacent one) rather than a made-up metric.
 - Never reference a "team"/"we" on jobs that say individual-freelancers-only — apply solo.
 - Never reuse the one negative job (a $60 Angular landing page, 2.0★) as proof.
