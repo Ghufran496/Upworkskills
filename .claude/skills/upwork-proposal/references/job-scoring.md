@@ -39,7 +39,7 @@ Always state the score breakdown and verdict before the proposal. If Saadullah s
 One flag can be fine. Two or more → say "I'd skip this, here's why" unless Saadullah insists.
 
 ## Step 4 — Portfolio match (feeds the Proof line in Layer 2)
-Pick the ONE most relevant item from `profile.md` proof bank for this exact job:
+**Priority order (hard rule):** pick proof from the profile's **⭐ TOP PRIORITY** tier FIRST — if the job overlaps a top-priority project even 1–2%, use it. Use the **Secondary** tier only when nothing in TOP fits. **Never** cite a **⏸ Pending** project until Saad confirms it. Then map to the closest item:
 - MVP build / turn UI or design into a working app → Peepeep MVP ($4,000); HTML UI → functional MVP ($2,000)
 - E-commerce / marketplace / multi-vendor → Multi-vendor MERN platform; Solo-vendor (.NET & React) store
 - Fintech / real estate / investment platform → Kudo Property (fractional real-estate)
