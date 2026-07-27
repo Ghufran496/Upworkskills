@@ -39,31 +39,34 @@ The skill reads this to write in the user's voice with real credentials. Never i
 
 ## Project portfolio — AUTHORITATIVE LIST (use ONLY these; always prefer TOP PRIORITY)
 
-**Matching rule (important):** For every job, pull proof/links from the TOP PRIORITY tier FIRST. If a job matches a top-priority project even loosely (a 1–2% overlap counts), use it. Only fall to the Secondary tier when nothing in TOP fits at all. Do NOT use anything in the "Pending" section until Saad confirms it. These are the real, working, current projects.
+**Matching rule (important):** For every job, pull proof from the **⭐⭐ FLAGSHIP** tier FIRST — these are Saad's proper, full production systems; lead with them, use even on a 1–2% overlap. If nothing flagship fits, use **⭐ TOP PRIORITY**, then **Secondary**. Only ever paste links that actually work; describe-only projects (see that section) are cited by name without a URL.
 
-### ⭐ TOP PRIORITY (working projects — always prefer, use even on a 1–2% match)
+### ⭐⭐ FLAGSHIP (very top priority — proper full systems; always lead with these)
+- **Kudo Property** (https://www.kudoproperty.com/) — fractional real-estate investment platform. Best for: fintech, real-estate, investment/SaaS platforms.
 - **Chem Connect** (https://www.cqvs-chemconnect.com.au/) — B2B chemical marketplace (concrete/quarrying): manufacturer-direct, live pricing without login, one-click ordering with saved templates, state warehouse dispatch, DG-freight compliance. Best for: B2B marketplace, procurement/ordering, industrial/supply, live-pricing e-commerce, quote-to-delivery.
-- **Elora Solutions** (https://elora-pi.vercel.app/) — compliance + data-intelligence SaaS for fleet washing: IoT tank telemetry (±1%), pre/post image-capture compliance, multi-site real-time dashboards, AI anomaly detection, pay-as-you-go. Best for: IoT/telemetry dashboards, compliance/audit platforms, multi-site monitoring, data-intelligence SaaS.
 - **Thryster** (front: https://dev-front.thryster.com , admin: https://dev-admin.thryster.com) — EdTech career marketplace (formerly Unifaires): job board + 2,300+ courses + funding/scholarships + talent verification; separate user & admin portals, multi-language, real-time chat, Stripe/PayPal payments. Best for: marketplace + admin, EdTech, job boards, multi-portal SaaS, payments, multi-language.
-- **Lovie Aurora** (https://lovie-aurora-marketplace.vercel.app/) — e-commerce marketplace/store. Best for: e-commerce, marketplace, online store, storefront.
-- **Orebi Store** (https://orebi-ecommerce-store.vercel.app) — e-commerce storefront. Best for: e-commerce, product store, checkout.
 - **Peepeep MVP** (https://peepeep-mvp-development.vercel.app/welcome) — took existing UI to a fully functional, deployed production app ($4k, 5.0★). Best for: MVP finish/build, prototype-to-production, inheriting an existing/AI-built codebase.
 - **Beyli** (https://beyli.live/) — bought a CodeCanyon script, customized it, connected frontend↔backend APIs, fixed issues, deployed to production. Best for: "finish/customize/deploy my CodeCanyon or Envato script" jobs.
+- **Lovie Aurora** (https://lovie-aurora-marketplace.vercel.app/) — e-commerce marketplace/store. Best for: e-commerce, marketplace, online store, storefront.
 - **Cirqley Portal** (https://portal.cirqley.com/login — login-gated) — multi-tenant billing & analytics dashboard (recurring billing, ledgers, reporting). Best for: billing/subscription SaaS, multi-tenant dashboards, fintech, analytics.
 - **Crash Report CRM** (https://wsp-dashboard.vercel.app/login — login-gated) — CRM / reporting dashboard. Best for: CRM, admin dashboards, reporting.
-- **Automated P&I Management System** (https://123-scrapper.vercel.app/dashboard/overview) — scraping/automation + management dashboard. Best for: automation, web scraping, data dashboards, back-office ops.
-- **LostNest** (https://lostnestfyp.vercel.app) — lost-and-found hub SaaS (Next.js/Node/MongoDB): real-time notifications, auth, search. Best for: community/institution SaaS, notifications, search apps.
-- **Trander Insight** (https://trander-insight.vercel.app) — stock research SaaS. Best for: fintech, stock/investment research, data-heavy dashboards.
 - **Spocket / Automated Dropshipping** (https://www.spocket.co/) — dropshipping automation platform. Best for: dropshipping, e-commerce automation, supplier integrations.
 - **DubSea** (https://www.dubsea.com/) — cultural media platform. Best for: media/community platforms, content sites.
 - **Ad Submission Portal** (https://ads.dubsea.com/) — Next.js portal with Stripe payments + Monday.com integration. Best for: portals, Stripe/payments, third-party-API integration, submission/approval workflows.
+- **Hadji / Ridwan Engineering** (https://hadji-web.vercel.app/login — login-gated) — construction workforce management: multi-site attendance, payroll, approval workflows + audit. Best for: workforce/HR-ops, attendance/payroll, construction/field-service, multi-site dashboards.
+- **Platform for Project Wheel** (Upwork portfolio: https://www.upwork.com/freelancers/~01e8d0649be0f2e364?p=2010390397842604032) — platform build showcased on the Upwork profile.
+
+### ⭐ TOP PRIORITY (strong — use when no flagship fits)
+- **Elora Solutions** (https://elora-pi.vercel.app/) — compliance + data-intelligence SaaS for fleet washing: IoT tank telemetry (±1%), pre/post image-capture compliance, multi-site real-time dashboards, AI anomaly detection, pay-as-you-go. Best for: IoT/telemetry dashboards, compliance/audit platforms, multi-site monitoring, data-intelligence SaaS.
+- **Orebi Store** (https://orebi-ecommerce-store.vercel.app) — e-commerce storefront. Best for: e-commerce, product store, checkout.
+- **Automated P&I Management System** (https://123-scrapper.vercel.app/dashboard/overview) — scraping/automation + management dashboard. Best for: automation, web scraping, data dashboards, back-office ops.
+- **LostNest** (https://lostnestfyp.vercel.app) — lost-and-found hub SaaS (Next.js/Node/MongoDB): real-time notifications, auth, search. Best for: community/institution SaaS, notifications, search apps.
+- **Trander Insight** (https://trander-insight.vercel.app) — stock research SaaS. Best for: fintech, stock/investment research, data-heavy dashboards.
 - **LinkUp** (https://link-up-ten.vercel.app/) — social-networking app: real-time chat, auth, activity-based matchmaking. Best for: social/community, real-time chat, networking.
 - **Quayla** (https://quayla.live/) — AI guide platform (Planet Q Productions): AI music, video games, trading. Best for: AI content/entertainment platforms, multimedia, AI-feature sites.
 - **Boxless AI** (https://www.boxless-ai.com/) — service-business automation platform. Best for: business/service automation, AI automation, service-biz sites.
 - **ReactBD Business** (https://react-bd-bussiness.vercel.app/) — agency/business/corporate site. Best for: business/corporate/agency sites, professional-services.
-- **Hadji / Ridwan Engineering** (https://hadji-web.vercel.app/login — login-gated) — construction workforce management: multi-site attendance, payroll, approval workflows + audit. Best for: workforce/HR-ops, attendance/payroll, construction/field-service, multi-site dashboards.
 - **WLTAL** (https://wltal.com/Login — login-gated) — [confirm exact purpose with Saad]. Login-gated web app.
-- **Platform for Project Wheel** (Upwork portfolio: https://www.upwork.com/freelancers/~01e8d0649be0f2e364?p=2010390397842604032) — platform build showcased on the Upwork profile.
 
 (Login-gated demos: WLTAL, Cirqley Portal, Crash Report CRM, Hadji. Request credentials from Saad for a client walkthrough. Do NOT store credentials in this file.)
 
@@ -71,7 +74,6 @@ The skill reads this to write in the user's voice with real credentials. Never i
 **E-commerce / marketplace:** Ridex automotive marketplace (https://ridex-ten.vercel.app/), Solo Vendor eCommerce (https://fyp-two-sigma.vercel.app/), La Public Marketplace (https://la-public.vercel.app/), PJ Farmers Market (Next.js + Supabase + Stripe multi-vendor, 10k+ monthly txns), Salebiz (https://salebiz.com.au/ AU business-for-sale marketplace), LoveOnPi (Pi Network crypto e-commerce).
 **LMS / EdTech:** Mini Lessons Academy (https://minilessonsacademy.com/ — AI LMS/course platform, gated content, Stripe subscriptions, admin CMS; strongest LMS proof), Cerifi (multi-tenant EdTech LMS, Angular+.NET+PostgreSQL, RLS, 50+ enterprise clients; no public link), USP (university enrollment, .NET 8 + React).
 **SaaS / dashboards / enterprise:** SMARTHIRE (HR/ATS, Next.js 16 + Supabase), Cloud Data Management Platform (React + .NET + Azure ETL/Power BI), SelfRep (Angular + ABP/.NET + Stripe + SignalR), StreamLine (https://stream-line-delta.vercel.app/ automation SaaS), Soaked (https://soaked.vercel.app/ affiliate/gaming analytics), Investa (https://investa-web-nine.vercel.app/ portfolio/stock tracking), Reputation Management (https://arshia.vercel.app/).
-**Fintech / real estate:** Kudo Property (https://www.kudoproperty.com/ fractional real-estate investment platform; strong fintech proof).
 **Events / legal-tech / AI-bot / games:** EventManager (Angular + Firebase ticketing/attendees/analytics), Marriage & Separation Agreement Wizards (.NET + OpenXML DOCX legal-tech), Policy Management (ASP.NET + Angular insurance CRUD), DiScribe (Azure Speech-to-Text + Speaker Recognition meeting bot; AI/speech proof), Rubble-Rousers (https://rubble-rousers0124635.vercel.app/ web game).
 **Media / social:** PlanetQ Radio (https://www.planetqradio.com/ music streaming), Maximized Ad Revenue (https://monetizesolution.com/), Scout Signal (athlete-discovery SaaS: web app + landing https://scoute-signal-landing-page.vercel.app/).
 **Web3 / crypto:** NFT Marketplace (https://raff-labs.vercel.app/), DEX Tokenomics Dashboard (https://dex-lovat.vercel.app/tokenomics), Jungle-Ox NFT + social (https://jungle-ox.vercel.app/), Atlas Finance (https://atlas-finance.vercel.app/), TokenoMeme (https://tokenomeme.vercel.app/).
