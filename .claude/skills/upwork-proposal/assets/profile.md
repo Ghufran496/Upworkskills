@@ -6,7 +6,7 @@ The skill reads this to write in the user's voice with real credentials. Never i
 
 ## Snapshot (who this freelancer is, at a glance)
 - **Sign-off name:** Saad (proposals end "Best regards, Saad")
-- Full-Stack + Mobile + AI/ML developer, **7+ years**, 75+ delivered projects. Top Rated, 100% Job Success.
+- Full-Stack + Mobile + AI/ML developer, **9+ years**, 75+ delivered projects. Top Rated, 100% Job Success.
 - Location/TZ: Gujranwala, Pakistan (PKT, UTC+5). Comfortable with US/EU/AUS timezone work.
 - Rate: listed $15/hr; **floor $15**; quotes for value on expert jobs. Availability: as-needed / open to offers.
 - **Capability rule:** can do ANY web (frontend + backend) or mobile/app project in his stack — never skip a job for "no identical past project" (see `references/job-scoring.md` + `references/pipeline.md`).
@@ -17,7 +17,7 @@ The skill reads this to write in the user's voice with real credentials. Never i
 - Name: Saadullah (shown as "Saadullah S." on Upwork; clients call him "Saad")
 - Title / role: Full-Stack Developer | ReactJS · AngularJS · NextJS · NodeJS · ASP.NET
 - Primary niches: scalable web apps, SaaS platforms, dashboards & admin panels, REST APIs & microservices, MVP builds (idea/UI → production), e-commerce (multi-vendor & single-vendor), fintech/real-estate platforms, API integrations, cloud (AWS/Azure), and hard-bug rescue/debugging
-- Years doing this: 7+ (React, Next.js, Angular, Node.js, Nest.js, Express.js, MERN, ASP.NET Core)
+- Years doing this: 9+ (React, Next.js, Angular, Node.js, Nest.js, Express.js, MERN, ASP.NET Core)
 - GitHub: https://github.com/SaadullahSajjad (username: saadullahsajjad)
 - Working methodology (mention when relevant): Understand requirements → Discuss → Ideate → Design → Develop → Test → Launch → Maintain
 - Location / time zone: Gujranwala, Pakistan — PKT (UTC+5)
@@ -34,7 +34,7 @@ The skill reads this to write in the user's voice with real credentials. Never i
 ## Voice
 - Register: confident, clean, product-focused; friendly and plain-spoken. Emphasizes clean architecture, performance, long-term maintainability, and clear communication.
 - Natural writing sample (his own Upwork overview):
-  > "I build scalable web apps, SaaS platforms, dashboards & APIs that are clean, fast, and built to last. I own projects end-to-end: from architecture and development to testing, deployment, and scaling. I focus on clean architecture, performance, and long-term maintainability, so what I build today keeps working as your business grows."
+  > "Hi, I'm Saadullah, a Full-Stack Developer with 9+ years of experience helping startups and businesses turn ideas into production-ready products. I own projects end-to-end: from architecture and development to testing, deployment, and scaling. I build scalable web apps, SaaS platforms, dashboards & APIs that are clean, fast, and built to last, focusing on clean architecture, performance, and long-term maintainability, so what I build today keeps working as your business grows."
 - Signature strengths clients repeat in reviews: clear communicator, reliable under deadlines, solution-oriented, finds bugs others miss.
 
 ## Project portfolio — AUTHORITATIVE LIST (use ONLY these; always prefer TOP PRIORITY)
@@ -89,7 +89,7 @@ These are genuine past projects whose demos are down. Cite them by name/descript
 Saadullah has real AI/ML experience — LLMs (GPT-4/3.5, Claude API), NLP, LangChain, RAG, vector DBs (Pinecone/Chroma/pgvector), Whisper speech-to-text, embeddings/semantic search, predictive ML (TensorFlow/PyTorch/scikit-learn). For AI jobs, describe HelloDrew (above, no link) as the flagship proof, or cite DiScribe (Azure Speech-to-Text meeting bot, in Secondary, no public link). For healthcare, describe Metanoa. Bridge from TOP PRIORITY projects with AI features where relevant (Elora anomaly detection, Quayla AI platform).
 
 ### Experience & standing (from CV)
-- 7+ years; freelance since 2018–2020, 75+ projects for US/EU/international clients, 100% client satisfaction. Senior Software Engineer & AI/ML Consultant at DevsComet (leads team of 5, US-stakeholder collaboration across time zones, reduced deploy time 45%, +35% team velocity). Comfortable with US-timezone client work.
+- 9+ years; freelance since 2018–2020, 75+ projects for US/EU/international clients, 100% client satisfaction. Senior Software Engineer & AI/ML Consultant at DevsComet (leads team of 5, US-stakeholder collaboration across time zones, reduced deploy time 45%, +35% team velocity). Comfortable with US-timezone client work.
 - Extra stack from CV: Python (FastAPI, Flask), Vue.js, GraphQL, Redis, Terraform, Jenkins, Nginx, AWS SageMaker, SignalR, Socket.io, Sequelize, Cloudinary, NextAuth, MATLAB (image processing/CV academic work), Java/JavaFX, containerization + Kubernetes in production.
 - **Multi-cloud: hands-on with ALL THREE — AWS, Azure, and GCP.** Claim confidently on any cloud/DevOps job. Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, Azure DevOps, Jenkins) in production. Never hedge on which cloud.
 - **Reputation:** repeatedly found and fixed production bugs no other developer could locate, saving client deadlines → strong debugging/rescue angle.
