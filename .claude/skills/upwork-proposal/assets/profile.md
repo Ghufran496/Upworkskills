@@ -6,7 +6,7 @@ The skill reads this to write in the user's voice with real credentials. Never i
 
 ## Snapshot (who this freelancer is, at a glance)
 - **Sign-off name:** Ali (proposals end "Best regards, Ali")
-- Full-Stack + Mobile + AI/ML engineer, 5+ years, 50+ delivered projects. Top Rated, 100% Job Success.
+- Full-Stack + Mobile + AI/ML engineer, 9+ years, 50+ delivered projects. Top Rated, 100% Job Success.
 - Location/TZ: Okara / Islamabad, Pakistan (PKT, UTC+5). Comfortable with US/EU/AUS timezone work.
 - Rate: listed **$15/hr**; **floor $15**; quotes for value on expert jobs (rate is a growth lever). Still APPLY to jobs posted at $10–15/hr and bid $15 (the top of their range). Availability: 30+ hrs/week, open to contract-to-hire.
 - **Capability rule:** can do ANY web (frontend + backend) or mobile/app project in his stack — never skip a job for "no identical past project" (see `references/job-scoring.md` + `references/pipeline.md`).
@@ -17,7 +17,7 @@ The skill reads this to write in the user's voice with real credentials. Never i
 - Name: Ali Haider (shown as "Ali H." on Upwork)
 - Title / role: Full-Stack & Mobile Engineer | Web, Mobile, Cloud, AI
 - Primary niches: full-stack web apps (React/Next.js/Angular/Vue front end, ASP.NET Core/Node.js/Django/Laravel back end), cross-platform & native mobile apps (React Native, Flutter, iOS/Swift, Android/Kotlin), dashboards/admin panels/CRMs/internal tools, multi-tenant & multi-role SaaS platforms, e-commerce, MVP builds (idea/UI → production), fintech/real-estate platforms, API design & integrations, cloud/DevOps (AWS/Azure/GCP, Docker/Kubernetes/CI-CD), databases, AI/LLM integrations (OpenAI/Azure OpenAI, Claude, RAG), and hard-bug rescue/debugging
-- Years doing this: 5+
+- Years doing this: 9+
 - GitHub: https://github.com/ialihaideryahya
 - Working methodology (mention when relevant): Understand requirements → Discuss → Ideate → Design → Develop → Test → Launch → Maintain
 - Location / time zone: Okara / Islamabad, Pakistan — PKT (UTC+5)
@@ -32,7 +32,7 @@ The skill reads this to write in the user's voice with real credentials. Never i
 ## Voice
 - Register: professional but warm; product-focused, confident, plain-spoken. Emphasizes clean architecture, performance, long-term maintainability, and clear communication.
 - Natural writing sample (his own Upwork overview):
-  > "Many developers focus only on writing code. I focus on building reliable, production-ready products. I design and develop secure, scalable web applications that align with real business needs, not quick prototypes that fail under real usage. With 5+ years of full-stack experience, I've delivered projects end-to-end — from planning and system design to frontend, backend, and deployment."
+  > "Many developers focus only on writing code. I focus on building reliable, production-ready products. I design and develop secure, scalable web applications that align with real business needs, not quick prototypes that fail under real usage. With 9+ years of full-stack experience, I've delivered projects end-to-end — from planning and system design to frontend, backend, and deployment."
 - Likes clear milestones, small reviewable deliverables, and regular progress updates. Positions as a long-term partner who takes ownership. Signature strengths clients repeat: clear communicator, reliable under deadlines, solution-oriented, finds bugs others miss.
 
 ## Ali's Upwork completed-job proof (review-backed)
@@ -95,7 +95,7 @@ Genuine past projects whose demos are down. Cite by name/description as proof, b
 Ali has real AI/ML experience — LLMs (GPT-4/3.5, Claude API), NLP, LangChain, RAG, vector DBs (Pinecone/Chroma/pgvector), Whisper speech-to-text, embeddings/semantic search, predictive ML (TensorFlow/PyTorch/scikit-learn). For AI jobs, describe HelloDrew (above, no link) as the flagship proof, or cite DiScribe (Azure Speech-to-Text meeting bot, in Secondary, no public link). For healthcare, describe Metanoa. Bridge from FLAGSHIP/TOP projects with AI features where relevant (Elora anomaly detection, Quayla AI platform).
 
 ### Experience & standing
-- 5+ years; 50+ delivered projects for US/EU/international clients. Comfortable with US-timezone client work.
+- 9+ years; 50+ delivered projects for US/EU/international clients. Comfortable with US-timezone client work.
 ### Detailed builds with confirmed tech stacks (strong, specific proof)
 Use these when a job needs concrete "I built X with Y" credibility. Stacks are real/verified.
 - **Metanoa Healthcare Forms Platform** — full-stack clinical assessment form builder. React 18 + TypeScript + Vite + Tailwind + Radix UI + TipTap editor; Node/Express + Supabase (PostgreSQL) + Supabase Auth; multi-tenant workspaces, RBAC, real-time preview, i18n, PostHog analytics. Best for: healthcare, form-builder, multi-tenant SaaS, Supabase jobs. Live: https://app.metanoa.ai/
