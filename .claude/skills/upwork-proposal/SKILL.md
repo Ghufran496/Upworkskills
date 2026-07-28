@@ -34,6 +34,7 @@ If `profile.md` has unfilled `[BRACKETS]`, flag which fields are missing — nev
 
 ### Layer 1 — QUALIFY (always run first)
 Follow `references/job-scoring.md`: read client signals, score the job 0–20, check red flags, pick the ONE matching portfolio proof and the opening angle. **Output the score + verdict before writing.**
+- **Portfolio proof MUST follow the priority order:** ⭐⭐ FLAGSHIP first (use even on a 1–2% overlap), then ⭐ TOP PRIORITY, then Secondary. Describe-only projects get no link; ⛔ RETIRED projects are never used. See `assets/profile.md`.
 - Verdict ≤13 or 2+ red flags → recommend SKIP with a one-line reason. Do NOT write the proposal unless the user says to anyway.
 - Verdict ≥14 → proceed to Layer 2 carrying the chosen proof + angle.
 

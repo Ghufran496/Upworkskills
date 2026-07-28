@@ -39,7 +39,7 @@ Always state the score breakdown and verdict before the proposal. If Ali says wr
 One flag can be fine. Two or more → say "I'd skip this, here's why" unless Ali insists.
 
 ## Step 4 — Portfolio match (feeds the Proof line in Layer 2)
-**Priority order (hard rule):** pick proof from the profile's **⭐⭐ FLAGSHIP** tier FIRST (Ali's proper full systems — use even on a 1–2% overlap), then **⭐ TOP PRIORITY**, then **Secondary**. Only paste working links; **describe-only** projects (HelloDrew, Metanoa, etc.) are cited by name with NO link. Then map to the closest item:
+**Priority order (hard rule):** pick proof from the profile's **⭐⭐ FLAGSHIP** tier FIRST (Ali's proper full systems — use even on a 1–2% overlap), then **⭐ TOP PRIORITY**, then **Secondary**. Only paste working links; **describe-only** projects (HelloDrew, Metanoa, etc.) are cited by name with NO link. **NEVER use anything in the profile's ⛔ RETIRED list (currently Krigen AI).** Then map to the closest item:
 - MVP build / turn UI or design into a working app → Peepeep MVP ($4,000); HTML UI → functional MVP ($2,000)
 - E-commerce / marketplace / multi-vendor → Multi-vendor MERN platform; Solo-vendor (.NET & React) store
 - Fintech / real estate / investment platform → Kudo Property (fractional real-estate)
