@@ -26,7 +26,14 @@ Score the job 0–5 on each of four dimensions (20 total):
 
 **Verdict:** 17–20 = DRAFT NOW · 14–16 = APPLY · ≤13 = SKIP.
 **Red flags (2+ = skip regardless):** unverified payment, low/again-terminated client, budget below floor, fake-example/false-claim gate, legal risk, spray-client pattern.
-**Before writing:** (1) get the client's NAME from the recent-history reviews (a past freelancer's reply often names the client — use the CLIENT name, never the freelancer's); (2) pick the ONE best-matching real project from profile.md; (3) choose the opening angle from the job's real pain.
+**Before writing:** (1) get the client's NAME from the recent-history reviews (a past freelancer's reply often names the client — use the CLIENT name, never the freelancer's); (2) pick the ONE best-matching real project from profile.md **following the PROJECT PRIORITY ORDER below**; (3) choose the opening angle from the job's real pain.
+
+**PROJECT PRIORITY ORDER (hard rule — applies to every proposal):**
+1. **⭐⭐ FLAGSHIP** tier in `profile.md` — the proper full production systems. Lead with these, and use one even if the job only overlaps it 1–2%.
+2. **⭐ TOP PRIORITY** — only if nothing flagship fits.
+3. **Secondary** — only if nothing above fits.
+4. **Describe-only** projects (e.g. HelloDrew, Metanoa) are cited by name with **NO link** (their demos are down). Only ever paste URLs that actually work.
+5. **⛔ RETIRED** projects are never used, linked, or mentioned in any form (currently Krigen AI).
 
 ## LAYER 2 — Proposal structure (exact format)
 ```
