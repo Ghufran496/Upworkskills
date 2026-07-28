@@ -77,8 +77,12 @@ The skill reads this to write in the user's voice with real credentials. Never i
 **Events / legal-tech / AI-bot / games:** EventManager (Angular + Firebase ticketing/attendees/analytics), Marriage & Separation Agreement Wizards (.NET + OpenXML DOCX legal-tech), Policy Management (ASP.NET + Angular insurance CRUD), DiScribe (Azure Speech-to-Text + Speaker Recognition meeting bot; AI/speech proof), Rubble-Rousers (https://rubble-rousers0124635.vercel.app/ web game).
 **Media / social:** PlanetQ Radio (https://www.planetqradio.com/ music streaming), Maximized Ad Revenue (https://monetizesolution.com/), Scout Signal (athlete-discovery SaaS: web app + landing https://scoute-signal-landing-page.vercel.app/).
 **Web3 / crypto:** NFT Marketplace (https://raff-labs.vercel.app/), DEX Tokenomics Dashboard (https://dex-lovat.vercel.app/tokenomics), Jungle-Ox NFT + social (https://jungle-ox.vercel.app/), Atlas Finance (https://atlas-finance.vercel.app/), TokenoMeme (https://tokenomeme.vercel.app/).
-**Technical tools:** Jetequip engineering calculators (https://jetequipe.vercel.app/ sanitary/pharma process). Krigen AI (https://www.krigen.ai marketing SaaS).
+**Technical tools:** Jetequip engineering calculators (https://jetequipe.vercel.app/ sanitary/pharma process).
 **Landing pages (B2B/service):** Kai Kim real-estate (https://portfolio-kai-kim.vercel.app/), Hammertime (https://dev-hammertime.vercel.app/), Energy Pro (https://dev-energypro.vercel.app/), Northern Renewable (https://northern-renewable-centre.vercel.app/), Northern Energy (https://northern-energy.vercel.app/), Suncharge solar (https://dev-solar-energy.vercel.app/), TCIS revamp (https://tcis-revamp.vercel.app/).
+
+### ⛔ RETIRED — never use, never link, never mention
+These projects are permanently retired. Do NOT cite them, link them, or reference them in any proposal, screening answer, or follow-up, in any form.
+- **Krigen AI** (krigen.ai) — retired 2026-07-29, site no longer working.
 
 ### Describe-only proof (real work, NO working link — mention as experience, never paste a URL)
 These are genuine past projects whose demos are down. Cite them by name/description as proof, but do NOT include a link (the URLs are dead). If a client asks for a link, offer a code/screen-share walkthrough instead.
@@ -124,6 +128,7 @@ Saadullah can work across the entire stack below. Surface only the skills releva
 - As Top Rated with 100% JSS, quote for value when the budget supports it — don't cling to $15/hr on senior/expert jobs
 
 ## Claiming rules
+- **Never use anything in the ⛔ RETIRED list** (currently: Krigen AI). Retired projects are off-limits entirely, even as a passing mention.
 - Saadullah claims the full skill set above — treat all of it as within his ability.
 - Still never invent specific METRICS, CLIENT NAMES, or PAST PROJECTS. The project portfolio is the only source of concrete proof; skills are claimable, fake results are not.
 - Use TOP PRIORITY projects first; Secondary only if none fit.
