@@ -1,6 +1,15 @@
 # Winning patterns — proven from real client feedback
 
-Real wins, with the client's own words on WHY. Apply these deliberately in Layer 2. This file exists because a client explained his reasoning in detail, which is rare and worth copying.
+Real wins, with the client's own words on WHY. This file exists because a client explained his reasoning in detail, which is rare and worth copying.
+
+## ⚠️ These are TOOLS, not a template — use judgment
+Do NOT force a pattern onto every job. Pick the hook that actually fits the job in front of you. A failure-modes hook on a brochure-site job would read as absurd and lose the bid.
+
+**Use the failure-modes hook WHEN the job involves:** production systems with real users, payments/billing, third-party integrations or webhooks, data sync/reconciliation, multi-step workflows with state, "fix/stabilize/rescue our app", inherited codebases, anything where correctness matters more than looks.
+
+**Do NOT use it when the job is:** a marketing/brochure site, a landing page, Figma-to-HTML implementation, design-led or animation-led work, SEO, a small one-off fix, or anything where the client's real concern is aesthetics, speed of delivery, or cost. There, the right hook is about THEIR actual priority (conversion, pixel accuracy, launch speed, ease of self-updating). See `structure.md` for hook patterns generally.
+
+The transferable principle across every job type is not "talk about failures", it is: **open on the thing this specific client is actually worried about, in concrete terms only an experienced person would use.** For a payments platform that is silent billing drift. For a landing page it might be conversion or pixel fidelity. For a rescue job it is not breaking what works.
 
 ---
 
@@ -58,9 +67,9 @@ Then one line of stance: *"I build those paths so they fail loudly and reconcile
 
 ---
 
-## Distilled rules to apply on every proposal
-1. **Lead with failure modes, not features.** Name 2–3 specific ways their system breaks in production. This is the single highest-leverage move discovered so far.
-2. **Prove production experience through specificity.** "Webhooks that fire twice" beats "experience with Stripe."
+## Distilled rules
+1. **Open on what THIS client is actually worried about, in concrete terms.** For production/payments/integration work that means failure modes (highest-leverage move found so far). For design/marketing work it means conversion, pixel fidelity, or launch speed. Match the hook to the job, never force one pattern.
+2. **Prove experience through specificity.** "Webhooks that fire twice" beats "experience with Stripe." Same principle applies elsewhere: "if Figma says 24px it is 24px" beats "pixel-perfect."
 3. **Map each proof to a named client requirement**, and say what YOU personally built.
 4. **Be honest about gaps and gated links.** It reads as confidence and it survives interviews.
 5. **Ask one question only an experienced person would ask.** It doubles as proof.
