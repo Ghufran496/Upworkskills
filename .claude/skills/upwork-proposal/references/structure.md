@@ -10,6 +10,8 @@ Start with a simple, warm greeting, then go straight into the hook.
 - **Exception — hidden instruction:** if the post says to start with specific words (e.g. "begin with 'AI Builder'"), those exact words go on the very first line, THEN the greeting on the next line. The filter phrase must be literally first.
 
 ## 1. HOOK (1–2 sentences)
+**PROVEN BEST HOOK — try this first (see `winning-patterns.md`):** name 2–3 specific ways their system **fails in production**, drawn from their own feature list, then state how you build those paths. A client who reviewed 187 proposals shortlisted Saad for exactly this, saying it showed "workflow integrity rather than just technology" and proved "real production SaaS, not just built features." Find the seams where their features touch (state advancing while a side-effect never fired, two systems drifting apart, anything that can fire twice or partially write) and name those failures concretely.
+
 Right after the greeting, open with something specific from THIS job post — the client's actual problem, a detail only someone who read it would mention, or a sharp observation about their goal. Never open the body with "I'm a [role] with X years of experience."
 
 Good hook patterns:

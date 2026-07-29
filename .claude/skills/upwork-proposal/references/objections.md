@@ -36,6 +36,14 @@ When the client has opened the proposal (or replied), send a short, specific val
 3. **Offer the next step as their choice** — "a quick 15-min call, or I can send a short Loom first, whichever's easier." Move toward a conversation without forcing a meeting.
 Keep it tight (~120–150 words), greeting + sign-off, no wall of text.
 
+## Post-shortlist conversation (proven — see `winning-patterns.md`)
+Once a client engages, the conversation is part of the evaluation. What worked on a real win:
+- **Client's message got truncated?** Say so plainly and ask them to resend, but still state what you WILL prepare. Never guess and prep the wrong thing.
+- **Client proposes an unpaid evaluation/test?** Accept warmly, then ask two professional questions: (1) expected time and deadline, (2) design-only or working code. This reads senior, not reluctant, and usually makes the client volunteer a fair scope. If the answer is "a few hours, design and reasoning" it is legitimate; if it is "build working features," counter with a scaled-down architecture doc or a short PAID trial.
+- **Waiting on something?** Send one short, unprompted note that doubles down on the exact strength that won the shortlist (a specific production capability + offer to screen-share). Do not pad it.
+- **Client has already decided the process?** Reply short (about 75 words). Long replies at that stage add nothing.
+- **Login-gated demos:** offer a screen-share on the call. Never hand over a client's credentials.
+
 ## Tone rules
 - Never apologize for your rate.
 - Never send a wall of text in a reply — 2–4 sentences.

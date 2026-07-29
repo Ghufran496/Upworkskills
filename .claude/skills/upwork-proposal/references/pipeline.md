@@ -42,6 +42,10 @@ Score the job 0–5 on each of four dimensions (20 total):
 Greeting            "Hi [Client name]," or "Hi there,"
 
 HOOK (1–2 sent.)    Open on THEIR problem / the real risk, never a résumé line.
+                    BEST-PROVEN FORM: name 2-3 specific production FAILURE MODES from
+                    their own feature list (state advancing while a side-effect never
+                    fired, two systems drifting apart, anything that fires twice), then
+                    say how you build those paths. See references/winning-patterns.md.
 
 PROOF (1–3 sent.)   ONE concrete, relevant project from profile.md, with a link.
                     Numbers and specifics beat adjectives.
