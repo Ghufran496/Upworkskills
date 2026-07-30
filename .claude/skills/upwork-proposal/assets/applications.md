@@ -9,6 +9,8 @@ Result: applied / viewed / reply / interview / hired / ghosted / skipped
 
 ## Log
 <!-- newest at top -->
+2026-07-22 | Full-Stack – ship features from vague ask (Stripe/QuickBooks, data/SQL, $350) | 14/20 | APPLY | "vague ask → shipped + reconciliation is the tricky bit" hook + Stripe/webhooks + scrapers/data proof; Claude Code workflow; EST-hours addressed | $350 first task, then $25-30/hr | <5 | applied
+2026-07-22 | "MVP Cleanup Sprint" $1,000 flat – Flask/CI verification gates | 6/20 | SKIP (payment red flag) | n/a | n/a ($1k, non-payment risk) | <5 | skipped — DANGER: freelancer on this exact post left 1.0★ "payment never comes after waiting for testers"; 2nd payment-dispute review; pay gated on subjective "verification gates"/offboarding; $9/hr avg. Walk away.
 2026-07-22 | Full-Stack – F&B website build + CMS + deploy (from designs) | 15/20 | APPLY (verify client panel) | "design-accurate + CMS non-tech staff can use" hook + Salebiz admin/CMS + Hammertime responsive proof (links) | $30/hr or fixed ~$1.2-2k (no budget posted) | client data N/A | applied
 2026-07-22 | Full-Stack React/Node dev (MongoDB/AWS, long-term) | 17/20 | DRAFT NOW | "front & back staying in sync + end-to-end ownership" hook + PJ Farmers/LostNest React+Node+Mongo+AWS proof; scoping Q | $38/hr (range $30-40, client pays $38 avg/$45 history) | <5 | applied
 2026-07-22 | Full-Stack ERP orders-entry (Angular/.NET/PostgreSQL) – client Ankoma | 17/20 | DRAFT NOW | exact-stack fit + "ERP modules interlock, data model is key" hook + Policy Mgmt/USP .NET+Angular proof; honest "no full ERP built" bridge + AI-workflow answer | $30/hr (range $10-25 but client pays $41 avg, $70-120 history) | 10-15 | applied
