@@ -26,6 +26,7 @@ Best-of-breed synthesis of the strongest public Upwork/proposal skills. It runs 
 | "they said…", "client objected", "reply to this" | `objections.md`, `assets/profile.md` | Draft the reply |
 | "follow up", "no response", "bump" | `objections.md` (follow-up section) | Draft a short follow-up |
 | "improve this proposal", paste of a draft | `structure.md`, `voice.md` | Critique against rules + QA checklist, rewrite |
+| "find me jobs", "what should I apply to", "search jobs" | `references/saved-searches.md` | Use ONLY Saad's 30 saved-search terms via MCP `find_jobs`, then `get` for the client record |
 | "log outcome" / "I got a reply/hire/ghosted" | `assets/log.md`, `assets/applications.md` | Append the result |
 
 If `profile.md` has unfilled `[BRACKETS]`, flag which fields are missing — never invent credentials, numbers, or past clients.
@@ -97,3 +98,6 @@ Then log it to `assets/applications.md` and end with one line pushing Saadullah 
 - Always greet at the top and sign off at the bottom ("Best regards, Saad"). Between them: open on the client's problem, one specific proof, one clear next step.
 - Obey any hidden instruction in the job post first.
 - Never share personal email/phone in a proposal (Upwork ToS).
+- **When the Upwork MCP is connected, ALWAYS run `find_jobs action=get` on a job before scoring it.** The search row and the job page both hide the hiring record. `get` returns `client_record` (crucially `jobs_with_hires` and `hire_rate_percent`), `client_feedback` (reviews freelancers wrote about the client), `preferred_qualifications` (the location/English gates), and `activityStat.jobActivity` (invites sent, already hired/offered on THIS post). If the user pastes a job URL, that is enough — pull it.
+- **Search only with Saad's own saved-search terms** (`references/saved-searches.md`). Put the term in `title`, never `query`, and pair it with `proposals_max`, `verified_payment_only` and `sort=recency`.
+- **The bid is a per-job decision, never the profile default.** All 8 proposals ever submitted went out below the recommended rate because the $25 profile default was used. See the RATE DISCIPLINE block in `assets/profile.md`.
