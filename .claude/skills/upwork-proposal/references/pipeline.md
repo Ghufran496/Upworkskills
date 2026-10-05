@@ -21,7 +21,7 @@ Score the job 0–5 on each of four dimensions (20 total):
 |---|---|
 | Fit & proof | Matches his stack? Real project to cite? (High by default — he can do any web/mobile job in his stack; see job-scoring.md "Capability assumption".) |
 | Scope clarity | Clear + bounded, or vague/kitchen-sink? |
-| Value alignment | Clears the $15 floor and pays fairly? |
+| Value alignment | Clears the $25 floor and pays fairly? |
 | Client signals | Payment verified, rating, hire rate, spend, proposal count? |
 
 **Verdict:** 17–20 = DRAFT NOW · 14–16 = APPLY · ≤13 = SKIP.
@@ -89,7 +89,7 @@ AI-tell score: X/100 · word count · checks
 3. Always greet at the top and sign off "Best regards, Saad".
 4. No em/en dashes. Human tone, varied sentence lengths, contractions. Zero banned words (voice.md).
 5. Obey any hidden magic phrase first (line 1).
-6. Bid at or above the $15 floor; on expert jobs quote for value, never the low anchor. Individual-only jobs = apply solo, no "team"/"we".
+6. Bid at or above the $25 floor; on expert jobs quote for value, never the low anchor. Individual-only jobs = apply solo, no "team"/"we".
 7. Log every job to assets/applications.md (and outcomes to log.md) so the skill learns.
 8. Match the job to the closest 2–3 real projects/links from profile.md.
 ```

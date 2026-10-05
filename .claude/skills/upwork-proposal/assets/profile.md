@@ -8,7 +8,7 @@ The skill reads this to write in the user's voice with real credentials. Never i
 - **Sign-off name:** Saad (proposals end "Best regards, Saad")
 - Full-Stack + Mobile + AI/ML developer, **9+ years**, 75+ delivered projects. Top Rated, 100% Job Success.
 - Location/TZ: Gujranwala, Pakistan (PKT, UTC+5). Comfortable with US/EU/AUS timezone work.
-- Rate: listed $15/hr; **floor $15**; quotes for value on expert jobs. Availability: as-needed / open to offers.
+- Rate: listed **$25/hr**; **floor $25**; quotes for value on expert jobs. Availability: as-needed / open to offers.
 - **Capability rule:** can do ANY web (frontend + backend) or mobile/app project in his stack — never skip a job for "no identical past project" (see `references/job-scoring.md` + `references/pipeline.md`).
 - Depth: web (React/Next/Angular/Vue), backend (Node/Nest/Express, ASP.NET Core, Python/FastAPI), mobile (React Native, Flutter), AI/ML (LLMs, LangChain, RAG, OpenAI/Claude, Whisper, vector DBs), multi-cloud (AWS + Azure + GCP), DevOps (Docker/K8s/Terraform/CI-CD), all major DBs.
 - GitHub: https://github.com/SaadullahSajjad
@@ -25,7 +25,9 @@ The skill reads this to write in the user's voice with real credentials. Never i
 
 ## Upwork standing (trust signals)
 - Top Rated, 100% Job Success
-- $8K+ total earnings, 16 total jobs, mostly 5.0-star reviews
+- **$10K+ total earnings, 19 total jobs, 53 hours worked**, mostly 5.0-star reviews (verified on profile 2026-10-05)
+- Client-endorsed traits from completed contracts: Committed to Quality (7), Clear Communicator (5), Professional (5), Reliable (5), Solution Oriented (4), Detail Oriented (3)
+- Avg. response time 0-4 hours; profile 100% complete; GitHub linked since 2022
 - Languages: English (fluent), Urdu (fluent), Italian (conversational), Russian (conversational) — good for international/EU clients
 - ID verified, Military veteran
 - Education: Bachelor of Computer Science (BCompSc), COMSATS Institute of Information Technology
@@ -121,11 +123,35 @@ Saadullah can work across the entire stack below. Surface only the skills releva
 **Tools & architecture:** Git, GitHub/GitLab/Bitbucket, Agile/Scrum, Jira, microservices, monorepos (Nx, Turborepo), serverless, event-driven architecture, message queues, Stripe/PayPal, WebRTC, Twilio, SendGrid, CMS (Strapi, Contentful, WordPress, Sanity), e-commerce (Shopify, WooCommerce)
 
 ## Pricing
-- Current listed rate: $15.00/hr
-- Absolute floor (never go below): $15/hr (one-off "weekend at $6/hr" jobs are not the norm — do not anchor there)
-- Fixed jobs have ranged $2,000–$4,000 for MVP builds; anchor on outcome/fixed pricing wherever scope allows
+- **Current listed rate: $25.00/hr** (profile default, updated 2026-10-05)
+- **Absolute floor (never go below): $25/hr.** Old $6-15/hr contracts are historic, not a benchmark — never anchor there.
+- Fixed jobs have ranged $2,000-$4,000 for MVP builds; anchor on outcome/fixed pricing wherever scope allows
 - Preferred model: fixed-price, milestone-based; hourly fine for long-term
-- As Top Rated with 100% JSS, quote for value when the budget supports it — don't cling to $15/hr on senior/expert jobs
+- As Top Rated with 100% JSS, quote for value when the budget supports it. On senior/expert jobs bid ABOVE $25.
+
+### ⚠️ RATE DISCIPLINE (learned from real submission data, 2026-10-02)
+The Upwork MCP showed that **all 8 proposals ever submitted went out BELOW the
+job-specific rate recommended in this workspace** — the profile default was used instead:
+| Recommended here | Actually sent |
+|---|---|
+| $35/hr Nordic fintech | $20 |
+| $35/hr crypto frontend lead | $25 |
+| $32/hr .NET Ukraine | $25 |
+| $32/hr concierge site | $25 |
+| $30/hr London vibe-coding | $20 |
+| $22/hr Web Forms (Mandi) | $15 |
+| $50/hr Angular | $25 |
+
+**It cost real money.** The Web Forms proposal went out at $15/hr; Mandi read it,
+interviewed, and sent an offer at **$25/hr** — she raised it herself by two thirds.
+Her precedent for developer work on that same app is **$75/hr** (freelancer "Robert A.",
+5-year maintenance relationship).
+
+**Rule:** the bid in the proposal is a per-job decision, not the profile default.
+Before submitting, re-read the recommended bid and set `charged_amount` to it deliberately.
+Check the client's ACTUAL paid history (via MCP `find_jobs get` -> `client_record`), not
+the posted range, and remember a client's average blends unrelated categories — find the
+comparable contract instead.
 
 ## Claiming rules
 - **Never use anything in the ⛔ RETIRED list** (currently: Krigen AI). Retired projects are off-limits entirely, even as a passing mention.
